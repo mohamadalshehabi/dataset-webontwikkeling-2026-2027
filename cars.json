@@ -6,7 +6,7 @@
     "price": 75000,
     "isAvailable": true,
     "productionDate": "2024-03-15",
-    "imageUrl": "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/BMW-M3.jpg",
     "fuelType": "Petrol",
     "features": [
       "Leather seats",
@@ -23,7 +23,7 @@
     "price": 85000,
     "isAvailable": true,
     "productionDate": "2023-07-20",
-    "imageUrl": "https://images.unsplash.com/photo-1556189250-72ba954cfc2b",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/BMW-X5.jpg",
     "fuelType": "Hybrid",
     "features": [
       "Panoramic roof",
@@ -40,7 +40,7 @@
     "price": 95000,
     "isAvailable": true,
     "productionDate": "2024-01-10",
-    "imageUrl": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/mercedes-c63-amg-.jpg",
     "fuelType": "Hybrid",
     "features": [
       "AMG sport seats",
@@ -57,7 +57,7 @@
     "price": 82000,
     "isAvailable": false,
     "productionDate": "2023-09-05",
-    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/mercedes-gle.jpg",
     "fuelType": "Diesel",
     "features": [
       "Seven seats",
@@ -74,7 +74,7 @@
     "price": 125000,
     "isAvailable": true,
     "productionDate": "2024-02-18",
-    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/audi-rs6.jpeg",
     "fuelType": "Petrol",
     "features": [
       "Quattro all-wheel drive",
@@ -91,7 +91,7 @@
     "price": 90000,
     "isAvailable": true,
     "productionDate": "2023-11-12",
-    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/Audi_Q8.jpg",
     "fuelType": "Diesel",
     "features": [
       "Quattro",
@@ -108,7 +108,7 @@
     "price": 48000,
     "isAvailable": true,
     "productionDate": "2024-04-22",
-    "imageUrl": "https://images.unsplash.com/photo-1542282088-fe8426682b8f",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/Volkswagen-Golf_GTI.jpg",
     "fuelType": "Petrol",
     "features": [
       "Sport suspension",
@@ -125,7 +125,7 @@
     "price": 52000,
     "isAvailable": true,
     "productionDate": "2024-05-30",
-    "imageUrl": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/vw-id4.jpg",
     "fuelType": "Electric",
     "features": [
       "Electric motor",
@@ -142,7 +142,7 @@
     "price": 130000,
     "isAvailable": false,
     "productionDate": "2024-06-14",
-    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/porsche_911.jpeg",
     "fuelType": "Petrol",
     "features": [
       "Sport exhaust",
@@ -159,7 +159,7 @@
     "price": 110000,
     "isAvailable": true,
     "productionDate": "2024-08-01",
-    "imageUrl": "https://images.unsplash.com/photo-1614200187524-dc4b892acf16",
+    "imageUrl": "https://raw.githubusercontent.com/mohamadalshehabi/dataset-webontwikkeling-2026-2027/refs/heads/main/images/porsche_taycan.jpg",
     "fuelType": "Electric",
     "features": [
       "Fast charging",
