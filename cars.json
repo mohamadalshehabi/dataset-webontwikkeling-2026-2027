@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "BMW M3",
+    "description": "The BMW M3 is a high-performance sports sedan that combines a powerful engine with a comfortable interior and modern technology.",
+    "price": 75000,
+    "isAvailable": true,
+    "productionDate": "2024-03-15",
+    "imageUrl": "https://images.unsplash.com/photo-1555215695-3004980ad54e",
+    "fuelType": "Petrol",
+    "features": [
+      "Leather seats",
+      "Automatic transmission",
+      "Parking sensors",
+      "Navigation"
+    ],
+    "manufacturerId": 1
+  },
+  {
+    "id": 2,
+    "name": "BMW X5",
+    "description": "The BMW X5 is a luxury SUV offering a spacious interior, advanced safety systems and strong performance for everyday driving.",
+    "price": 85000,
+    "isAvailable": true,
+    "productionDate": "2023-07-20",
+    "imageUrl": "https://images.unsplash.com/photo-1556189250-72ba954cfc2b",
+    "fuelType": "Hybrid",
+    "features": [
+      "Panoramic roof",
+      "Leather interior",
+      "Four-wheel drive",
+      "Parking camera"
+    ],
+    "manufacturerId": 1
+  },
+  {
+    "id": 3,
+    "name": "Mercedes C63",
+    "description": "The Mercedes-AMG C63 is a sporty luxury car designed for drivers who want high performance combined with premium comfort and technology.",
+    "price": 95000,
+    "isAvailable": true,
+    "productionDate": "2024-01-10",
+    "imageUrl": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8",
+    "fuelType": "Hybrid",
+    "features": [
+      "AMG sport seats",
+      "Adaptive cruise control",
+      "Automatic transmission",
+      "LED headlights"
+    ],
+    "manufacturerId": 2
+  },
+  {
+    "id": 4,
+    "name": "Mercedes GLE",
+    "description": "The Mercedes-Benz GLE is a premium SUV with a spacious cabin, comfortable driving experience and a wide range of modern features.",
+    "price": 82000,
+    "isAvailable": false,
+    "productionDate": "2023-09-05",
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "fuelType": "Diesel",
+    "features": [
+      "Seven seats",
+      "Panoramic roof",
+      "Navigation",
+      "Parking assistance"
+    ],
+    "manufacturerId": 2
+  },
+  {
+    "id": 5,
+    "name": "Audi RS6",
+    "description": "The Audi RS6 is a powerful performance wagon that combines impressive acceleration with a practical interior and large cargo space.",
+    "price": 125000,
+    "isAvailable": true,
+    "productionDate": "2024-02-18",
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "fuelType": "Petrol",
+    "features": [
+      "Quattro all-wheel drive",
+      "Sport seats",
+      "Virtual cockpit",
+      "Matrix LED lights"
+    ],
+    "manufacturerId": 3
+  },
+  {
+    "id": 6,
+    "name": "Audi Q8",
+    "description": "The Audi Q8 is a luxury SUV with a modern design, advanced technology and a comfortable interior suitable for long journeys.",
+    "price": 90000,
+    "isAvailable": true,
+    "productionDate": "2023-11-12",
+    "imageUrl": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6",
+    "fuelType": "Diesel",
+    "features": [
+      "Quattro",
+      "Leather seats",
+      "360-degree camera",
+      "Bang & Olufsen audio"
+    ],
+    "manufacturerId": 3
+  },
+  {
+    "id": 7,
+    "name": "Volkswagen Golf GTI",
+    "description": "The Volkswagen Golf GTI is a compact sports car that offers a balance between everyday practicality, enjoyable performance and modern technology.",
+    "price": 48000,
+    "isAvailable": true,
+    "productionDate": "2024-04-22",
+    "imageUrl": "https://images.unsplash.com/photo-1542282088-fe8426682b8f",
+    "fuelType": "Petrol",
+    "features": [
+      "Sport suspension",
+      "Digital cockpit",
+      "Heated seats",
+      "Apple CarPlay"
+    ],
+    "manufacturerId": 4
+  },
+  {
+    "id": 8,
+    "name": "Volkswagen ID.4",
+    "description": "The Volkswagen ID.4 is an electric SUV designed for comfortable daily driving with a spacious interior and zero direct emissions.",
+    "price": 52000,
+    "isAvailable": true,
+    "productionDate": "2024-05-30",
+    "imageUrl": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7",
+    "fuelType": "Electric",
+    "features": [
+      "Electric motor",
+      "Fast charging",
+      "Digital cockpit",
+      "Wireless charging"
+    ],
+    "manufacturerId": 4
+  },
+  {
+    "id": 9,
+    "name": "Porsche 911",
+    "description": "The Porsche 911 is an iconic sports car known for its performance, distinctive design and precise handling on both roads and racetracks.",
+    "price": 130000,
+    "isAvailable": false,
+    "productionDate": "2024-06-14",
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70",
+    "fuelType": "Petrol",
+    "features": [
+      "Sport exhaust",
+      "Leather interior",
+      "Sport Chrono",
+      "Rear-wheel drive"
+    ],
+    "manufacturerId": 5
+  },
+  {
+    "id": 10,
+    "name": "Porsche Taycan",
+    "description": "The Porsche Taycan is a fully electric sports car that combines high performance with advanced electric technology and a premium interior.",
+    "price": 110000,
+    "isAvailable": true,
+    "productionDate": "2024-08-01",
+    "imageUrl": "https://images.unsplash.com/photo-1614200187524-dc4b892acf16",
+    "fuelType": "Electric",
+    "features": [
+      "Fast charging",
+      "All-wheel drive",
+      "Sport mode",
+      "Premium audio"
+    ],
+    "manufacturerId": 5
+  }
+]
